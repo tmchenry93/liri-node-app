@@ -2,7 +2,7 @@
   "name": "05c-packagejson",
   "version": "1.0.0",
   "description": "This is for a homework assignment",
-  "main": "./liri.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
